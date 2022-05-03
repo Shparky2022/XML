@@ -1,1 +1,12 @@
-
+<location>
+ 	<ancestorOrigins></ancestorOrigins>
+  	<href>http://localhost:4000/</href>
+  	<origin>http://localhost:4000</origin>
+  	<protocol>http</protokol>
+  	<host>localhost:4000</host>
+  	<hostname>localhost</hostname> 
+  	<port>4000</port> 
+  	<pathname></pathname> 
+  	<search></search> 
+  	<hash></hash> 
+</location> 
